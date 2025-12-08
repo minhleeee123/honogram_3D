@@ -1,0 +1,7 @@
+{
+  "name": "HoloCore 3D",
+  "description": "Biến đổi mô hình 3D thành hệ thống hạt hologram tương tác. Điều khiển bằng giao diện trực quan hoặc AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
